@@ -8,9 +8,9 @@ Meu repositório do senai
     Projeto Senai Github
 </head>
 <body>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGznIf_wrqGXI8GaRyLwbI3tokGvy2zUaoIQ&s">
+  <text align="center">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGznIf_wrqGXI8GaRyLwbI3tokGvy2zUaoIQ&s">
     <Header>
-        <h3>teste de uso</h3>
+        <h3>Bem-Vindo ao potifólio,Gostaria De dar uma olhada?Clique no Link abaixo!</h3>
         <menu>
             <ol>
                 <li>dance</li>
