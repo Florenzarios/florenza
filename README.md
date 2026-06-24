@@ -1,7 +1,7 @@
 # Florenza de Guadalupe Rios Ribeiro
 Meu repositório do senai
 
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -20,7 +20,7 @@ Meu repositório do senai
             <ol>
                 <li>Curriculo</li>
                 <li>introdução;</li> 
-                <li>portifolio;</li>
+                <li href="">portifolio;</li>
                 <li>considerações finais;</li>
             </ol>
         </menu>
